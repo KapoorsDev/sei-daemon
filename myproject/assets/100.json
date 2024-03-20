@@ -1,0 +1,30 @@
+{
+  "name": "SEI DAEMONS #100",
+  "description": "Collection of 333 Monsters comming on SEI 🔥",
+  "image": "100.png",
+  "edition": 100,
+  "date": 1710947498801,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "(5)"
+    },
+    {
+      "trait_type": "Body",
+      "value": "(3)"
+    },
+    {
+      "trait_type": "Attire",
+      "value": "(1)"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "(10)"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "  (11)"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

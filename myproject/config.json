@@ -1,0 +1,75 @@
+{
+    "mnemonic": "silly usage affair credit system tissue double sorry prepare access blame jeans",
+    "rpc": "https://sei-rpc.brocha.in/",
+    "network": "pacific-1",
+    "name": "Sei Daemon",
+    "symbol": "SDM",
+    "description": "Collection of 333 Monsters comming on SEI 🔥",
+    "supply": 333,
+    "token_uri": "https://arweave.net/N7hiPz10mlp4GDoU-Ha4ecbA46Ar7tHrh_wsbFe3U8E",
+    "royalty_percent": 10,
+    "royalty_wallet": "sei14fwzu2j6mvje9qke444fw3t4x95e042ky3ss0t",
+    "iterated_uri": false,
+    "start_order": 1,
+    "frozen": false,
+    "hidden_metadata": false,
+    "placeholder_token_uri": null,
+    "groups": [
+        {
+            "name": "Team",
+            "merkle_root": "bd946e7bcc21ce7e958a2d46babbc9df0e7b3e38002596f4a17de74878225fec",
+            "max_tokens": 15,
+            "unit_price": 0,
+            "creators": [
+                {
+                    "address": "sei14fwzu2j6mvje9qke444fw3t4x95e042ky3ss0t",
+                    "share": 100
+                }
+            ],
+            "start_time": "2024-03-20T15:00:00Z",
+            "end_time": "2024-03-20T18:00:00Z"
+        },
+        {
+            "name": "OG",
+            "merkle_root": "0ead69295ddce4bbab90f764eefc555f2dadce9fb1656fa292d3d1b49301cb26",
+            "max_tokens": 1,
+            "unit_price": 0,
+            "creators": [
+                {
+                    "address": "sei14fwzu2j6mvje9qke444fw3t4x95e042ky3ss0t",
+                    "share": 100
+                }
+            ],
+            "start_time": "2024-03-20T15:30:00Z",
+            "end_time": "2024-03-20T19:00:00Z"
+        },
+        {
+            "name": "Whitelist",
+            "merkle_root": "66259be9db149633777f9f82092ef94c4e0ca0bd6ca5f5cb9b06302fefdeab36",
+            "max_tokens": 3,
+            "unit_price": 5,
+            "creators": [
+                {
+                    "address": "sei14fwzu2j6mvje9qke444fw3t4x95e042ky3ss0t",
+                    "share": 100
+                }
+            ],
+            "start_time": "2024-03-20T15:00:00Z",
+            "end_time": "2024-03-20T19:30:00Z"
+        },
+        {
+            "name": "Public",
+            "merkle_root": null,
+            "max_tokens": 2,
+            "unit_price": 7,
+            "creators": [
+                {
+                    "address": "sei14fwzu2j6mvje9qke444fw3t4x95e042ky3ss0t",
+                    "share": 100
+                }
+            ],
+            "start_time": "2024-03-20T15:30:00Z",
+            "end_time": "2024-03-20T20:30:00Z"
+        }
+    ]
+}

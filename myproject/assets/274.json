@@ -1,0 +1,30 @@
+{
+  "name": "SEI DAEMONS #274",
+  "description": "Collection of 333 Monsters comming on SEI 🔥",
+  "image": "274.png",
+  "edition": 274,
+  "date": 1710947610839,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "(3)"
+    },
+    {
+      "trait_type": "Body",
+      "value": "(2)"
+    },
+    {
+      "trait_type": "Attire",
+      "value": "(2)"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "(2)"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "  (4)"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
